@@ -1,6 +1,6 @@
 # WebBND
 Руты для UI (были созданы только для нормальной работы фронта):
-https://tima-app.herokuapp.com/users/list - весь список users
+/https://tima-app.herokuapp.com/users/list - весь список users
 https://tima-app.herokuapp.com/users/new - добавить 
 https://tima-app.herokuapp.com/users/add2 - добавить 
 https://tima-app.herokuapp.com/users/edit/{id} - редактировать
